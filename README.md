@@ -1,3 +1,3 @@
 # Guacamole recipe
 
-This is an exercise repository made for the Code Refinery workshop.
+This is an exercise repository made for the Code Refinery workshop in September 2023.
